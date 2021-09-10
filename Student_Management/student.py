@@ -1,5 +1,6 @@
 from date import date
 from dshp import dshp
+
 class student:
     def __init__(self,name,mssv,major,ngaysinh,dshp):
         self.name=name
@@ -7,6 +8,7 @@ class student:
         self.major=major
         self.ngaysinh=ngaysinh
         self.dshp=dshp
+        
     def show(self):
         f1='\x1b[6;37;41m'
         f2='\x1b[6;30;42m'
