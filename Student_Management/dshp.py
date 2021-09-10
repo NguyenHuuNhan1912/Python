@@ -1,6 +1,8 @@
 class dshp:
+    
     def __init__(self,danhsachhocphan):
         self.danhsachhocphan=danhsachhocphan
+        
     def show(self):
         f1='\x1b[6;37;41m'
         f2='\x1b[6;30;42m'
@@ -27,7 +29,7 @@ class dshp:
             return 1.0
         elif s=="F" or s=="f":
             return 0.0
-
+     
     def tichluy(self):
        k = len(self.danhsachhocphan)
        total=0.0
