@@ -157,7 +157,7 @@ def snake():
         
         clock.tick(speed) #Do kho cua game        
 
-    #Thoat cho troi va xoa du lieu tiet kiem bo nho
+    #Thoat tro choi va xoa du lieu tiet kiem bo nho
     pygame.quit()
 
 #Goi ham snake
