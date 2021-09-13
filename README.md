@@ -3,3 +3,6 @@
 * [Hello World](https://github.com/NguyenHuuNhan1912/Python/blob/main/Basic/HelloWorld.py)
 ## Game Python
 * [Snake game](https://github.com/NguyenHuuNhan1912/Python/blob/main/Game/snake.py)
+<p align="center">
+<img src="https://media.giphy.com/media/YrYzIcAByIvehuBDLW/giphy.gif?cid=790b7611fe396d7560aebd33540f4b3b0399d5d33d8ab982&rid=giphy.gif&ct=g">
+ </p>
